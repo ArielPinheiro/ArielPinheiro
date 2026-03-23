@@ -1,4 +1,3 @@
-<h1 align="center">Olá, Sejam bem-vindos! 🫠</h1>
 
 ###
 
