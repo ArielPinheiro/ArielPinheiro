@@ -9,7 +9,7 @@
 
 ###
 
-<p align="center">🐳 Gosto de animais marinhos<br>🎮 Adoro League Of Legends<br>❤️ Amo a cultura japonesa  <br>😎 Praticante da língua japonesa</p>
+<p align="center">🐳 Gosto de animais marinhos<br>🎮 Adoro League Of Legends<br>❤️ Amo a cultura japonesa</p>
 
 ###
 
