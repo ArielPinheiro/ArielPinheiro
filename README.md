@@ -5,14 +5,6 @@
 
 ###
 
-<h2 align="center">Sobre minha pessoa!!</h2>
-
-###
-
-<p align="center">🐳 Gosto de animais marinhos<br>🎮 Adoro League Of Legends<br>❤️ Amo a cultura japonesa</p>
-
-###
-
 <h2 align="left">Tecnologias</h2>
 
 ###
