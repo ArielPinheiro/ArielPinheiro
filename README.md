@@ -11,8 +11,7 @@
 - 🔭 Atualmente estou estudando UI e UX (Desing) 
 - 💬 Contato com arielolivapinheirodosantos@gmail.com
 
-<div></div
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffd5f8&height=75&section=footer"/>
 ###
 
 <p align="left">Estudante de Desenvolvimento de Sistemas no SENAI de Informática, atualmente no 2º semestre, com foco em programação, análise de sistemas e criação de soluções tecnológicas. Possuo certificações AI-900 (Microsoft Azure AI Fundamentals) e PL-900 (Microsoft Power Platform Fundamentals), com conhecimentos em computação em nuvem, inteligência artificial e automação de processos, aplicados ao desenvolvimento de sistemas modernos e eficientes.</p>
